@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Console_Laba8/1.0.0": {
+        "runtime": {
+          "Console_Laba8.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Console_Laba8/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

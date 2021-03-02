@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\ООП ЛАБЫ\Лаба 8\Console_Laba8\Console_Laba8\bin\Debug\netcoreapp3.0\Console_Laba8.exe
+C:\Users\Admin\Desktop\ООП ЛАБЫ\Лаба 8\Console_Laba8\Console_Laba8\bin\Debug\netcoreapp3.0\Console_Laba8.deps.json
+C:\Users\Admin\Desktop\ООП ЛАБЫ\Лаба 8\Console_Laba8\Console_Laba8\bin\Debug\netcoreapp3.0\Console_Laba8.runtimeconfig.json
+C:\Users\Admin\Desktop\ООП ЛАБЫ\Лаба 8\Console_Laba8\Console_Laba8\bin\Debug\netcoreapp3.0\Console_Laba8.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\ООП ЛАБЫ\Лаба 8\Console_Laba8\Console_Laba8\bin\Debug\netcoreapp3.0\Console_Laba8.dll
+C:\Users\Admin\Desktop\ООП ЛАБЫ\Лаба 8\Console_Laba8\Console_Laba8\bin\Debug\netcoreapp3.0\Console_Laba8.pdb
+C:\Users\Admin\Desktop\ООП ЛАБЫ\Лаба 8\Console_Laba8\Console_Laba8\obj\Debug\netcoreapp3.0\Console_Laba8.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ООП ЛАБЫ\Лаба 8\Console_Laba8\Console_Laba8\obj\Debug\netcoreapp3.0\Console_Laba8.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ООП ЛАБЫ\Лаба 8\Console_Laba8\Console_Laba8\obj\Debug\netcoreapp3.0\Console_Laba8.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ООП ЛАБЫ\Лаба 8\Console_Laba8\Console_Laba8\obj\Debug\netcoreapp3.0\Console_Laba8.dll
+C:\Users\Admin\Desktop\ООП ЛАБЫ\Лаба 8\Console_Laba8\Console_Laba8\obj\Debug\netcoreapp3.0\Console_Laba8.pdb
