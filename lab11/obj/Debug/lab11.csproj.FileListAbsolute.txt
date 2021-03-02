@@ -1,0 +1,11 @@
+/Users/aleksandrbogatko/Desktop/Alexandr_Bogatko_IPZ-12.zip/OOP labs/Lab11/lab11/lab11/bin/Debug/lab11.exe
+/Users/aleksandrbogatko/Desktop/Alexandr_Bogatko_IPZ-12.zip/OOP labs/Lab11/lab11/lab11/bin/Debug/lab11.pdb
+/Users/aleksandrbogatko/Desktop/Alexandr_Bogatko_IPZ-12.zip/OOP labs/Lab11/lab11/lab11/obj/Debug/lab11.csprojAssemblyReference.cache
+/Users/aleksandrbogatko/Desktop/Alexandr_Bogatko_IPZ-12.zip/OOP labs/Lab11/lab11/lab11/obj/Debug/lab11.csproj.CoreCompileInputs.cache
+/Users/aleksandrbogatko/Desktop/Alexandr_Bogatko_IPZ-12.zip/OOP labs/Lab11/lab11/lab11/obj/Debug/lab11.exe
+/Users/aleksandrbogatko/Desktop/Alexandr_Bogatko_IPZ-12.zip/OOP labs/Lab11/lab11/lab11/obj/Debug/lab11.pdb
+C:\Users\Admin\Desktop\lab11\lab11\bin\Debug\lab11.exe
+C:\Users\Admin\Desktop\lab11\lab11\bin\Debug\lab11.pdb
+C:\Users\Admin\Desktop\lab11\lab11\obj\Debug\lab11.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\lab11\lab11\obj\Debug\lab11.exe
+C:\Users\Admin\Desktop\lab11\lab11\obj\Debug\lab11.pdb
